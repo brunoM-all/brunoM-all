@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Linguagens mais usadas: Python 52.7%, TypeScript 34.6%, Dart 5.5%, PLpgSQL 3.7%, Java 1.1%, Outras 2.4%">
-<title>Linguagens mais usadas: Python 52.7%, TypeScript 34.6%, Dart 5.5%, PLpgSQL 3.7%, Java 1.1%, Outras 2.4%</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Linguagens mais usadas: Python 99.5%, JavaScript 0.3%, Cython 0.1%, PowerShell 0.1%, CSS 0.0%, Outras 0.1%">
+<title>Linguagens mais usadas: Python 99.5%, JavaScript 0.3%, Cython 0.1%, PowerShell 0.1%, CSS 0.0%, Outras 0.1%</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/>
@@ -27,35 +27,35 @@
 <rect x="0.5" y="0.5" width="413" height="249" rx="14" fill="#f8f9fb" stroke="#d0d7de"/>
 
 <text x="24" y="40" class="h">Linguagens mais usadas</text>
-<g class="growx"><rect x="24.0" y="64" width="187.7" height="12" rx="3" fill="#3572A5"/><rect x="213.7" y="64" width="123.0" height="12" rx="3" fill="#3178c6"/><rect x="338.8" y="64" width="19.6" height="12" rx="3" fill="#00B4AB"/><rect x="360.3" y="64" width="13.1" height="12" rx="3" fill="#336790"/><rect x="375.4" y="64" width="3.9" height="12" rx="3" fill="#b07219"/><rect x="381.4" y="64" width="8.6" height="12" rx="3" fill="#6e7681"/></g>
+<g class="growx"><rect x="24.0" y="64" width="354.0" height="12" rx="3" fill="#3572A5"/><rect x="380.0" y="64" width="2.0" height="12" rx="3" fill="#f1e05a"/><rect x="384.0" y="64" width="2.0" height="12" rx="3" fill="#fedf5b"/><rect x="388.0" y="64" width="2.0" height="12" rx="3" fill="#012456"/><rect x="392.0" y="64" width="2.0" height="12" rx="3" fill="#663399"/><rect x="396.0" y="64" width="2.0" height="12" rx="3" fill="#6e7681"/></g>
 <g class="fade" style="animation-delay:0.4s">
   <circle cx="30" cy="112" r="6" fill="#3572A5"/>
   <text x="44" y="116" font-size="14" font-weight="600">Python</text>
-  <text x="44" y="133" font-size="12" class="muted">52,7%</text>
+  <text x="44" y="133" font-size="12" class="muted">99,5%</text>
 </g>
 <g class="fade" style="animation-delay:0.48000000000000004s">
-  <circle cx="219" cy="112" r="6" fill="#3178c6"/>
-  <text x="233" y="116" font-size="14" font-weight="600">TypeScript</text>
-  <text x="233" y="133" font-size="12" class="muted">34,6%</text>
+  <circle cx="219" cy="112" r="6" fill="#f1e05a"/>
+  <text x="233" y="116" font-size="14" font-weight="600">JavaScript</text>
+  <text x="233" y="133" font-size="12" class="muted">0,3%</text>
 </g>
 <g class="fade" style="animation-delay:0.56s">
-  <circle cx="30" cy="152" r="6" fill="#00B4AB"/>
-  <text x="44" y="156" font-size="14" font-weight="600">Dart</text>
-  <text x="44" y="173" font-size="12" class="muted">5,5%</text>
+  <circle cx="30" cy="152" r="6" fill="#fedf5b"/>
+  <text x="44" y="156" font-size="14" font-weight="600">Cython</text>
+  <text x="44" y="173" font-size="12" class="muted">0,1%</text>
 </g>
 <g class="fade" style="animation-delay:0.64s">
-  <circle cx="219" cy="152" r="6" fill="#336790"/>
-  <text x="233" y="156" font-size="14" font-weight="600">PLpgSQL</text>
-  <text x="233" y="173" font-size="12" class="muted">3,7%</text>
+  <circle cx="219" cy="152" r="6" fill="#012456"/>
+  <text x="233" y="156" font-size="14" font-weight="600">PowerShell</text>
+  <text x="233" y="173" font-size="12" class="muted">0,1%</text>
 </g>
 <g class="fade" style="animation-delay:0.72s">
-  <circle cx="30" cy="192" r="6" fill="#b07219"/>
-  <text x="44" y="196" font-size="14" font-weight="600">Java</text>
-  <text x="44" y="213" font-size="12" class="muted">1,1%</text>
+  <circle cx="30" cy="192" r="6" fill="#663399"/>
+  <text x="44" y="196" font-size="14" font-weight="600">CSS</text>
+  <text x="44" y="213" font-size="12" class="muted">0,0%</text>
 </g>
 <g class="fade" style="animation-delay:0.8s">
   <circle cx="219" cy="192" r="6" fill="#6e7681"/>
   <text x="233" y="196" font-size="14" font-weight="600">Outras</text>
-  <text x="233" y="213" font-size="12" class="muted">2,4%</text>
+  <text x="233" y="213" font-size="12" class="muted">0,1%</text>
 </g>
 </svg>
