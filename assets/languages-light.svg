@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Linguagens mais usadas: Python 52.7%, TypeScript 34.6%, Dart 5.5%, PLpgSQL 3.7%, Java 1.1%, Outras 2.4%">
+<title>Linguagens mais usadas: Python 52.7%, TypeScript 34.6%, Dart 5.5%, PLpgSQL 3.7%, Java 1.1%, Outras 2.4%</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/>
+  </linearGradient>
+  <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#0891b2"/>
+  </linearGradient>
+  
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .muted { fill: #59636e; }
+  .faint { fill: #818b98; }
+  .h { font-size: 13px; font-weight: 600; letter-spacing: .4px; text-transform: uppercase; fill: #59636e; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .7s cubic-bezier(.2,.8,.2,1) forwards; }
+  .growx { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: growx .8s cubic-bezier(.2,.8,.2,1) forwards; }
+  .draw { stroke-dasharray: 3000; stroke-dashoffset: 3000; animation: draw 1.8s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleY(1); } }
+  @keyframes growx { to { transform: scaleX(1); } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .fade,.grow,.growx,.draw { animation: none; opacity: 1; transform: none; stroke-dashoffset: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="413" height="249" rx="14" fill="#f8f9fb" stroke="#d0d7de"/>
+
+<text x="24" y="40" class="h">Linguagens mais usadas</text>
+<g class="growx"><rect x="24.0" y="64" width="187.7" height="12" rx="3" fill="#3572A5"/><rect x="213.7" y="64" width="123.0" height="12" rx="3" fill="#3178c6"/><rect x="338.8" y="64" width="19.6" height="12" rx="3" fill="#00B4AB"/><rect x="360.3" y="64" width="13.1" height="12" rx="3" fill="#336790"/><rect x="375.4" y="64" width="3.9" height="12" rx="3" fill="#b07219"/><rect x="381.4" y="64" width="8.6" height="12" rx="3" fill="#6e7681"/></g>
+<g class="fade" style="animation-delay:0.4s">
+  <circle cx="30" cy="112" r="6" fill="#3572A5"/>
+  <text x="44" y="116" font-size="14" font-weight="600">Python</text>
+  <text x="44" y="133" font-size="12" class="muted">52,7%</text>
+</g>
+<g class="fade" style="animation-delay:0.48000000000000004s">
+  <circle cx="219" cy="112" r="6" fill="#3178c6"/>
+  <text x="233" y="116" font-size="14" font-weight="600">TypeScript</text>
+  <text x="233" y="133" font-size="12" class="muted">34,6%</text>
+</g>
+<g class="fade" style="animation-delay:0.56s">
+  <circle cx="30" cy="152" r="6" fill="#00B4AB"/>
+  <text x="44" y="156" font-size="14" font-weight="600">Dart</text>
+  <text x="44" y="173" font-size="12" class="muted">5,5%</text>
+</g>
+<g class="fade" style="animation-delay:0.64s">
+  <circle cx="219" cy="152" r="6" fill="#336790"/>
+  <text x="233" y="156" font-size="14" font-weight="600">PLpgSQL</text>
+  <text x="233" y="173" font-size="12" class="muted">3,7%</text>
+</g>
+<g class="fade" style="animation-delay:0.72s">
+  <circle cx="30" cy="192" r="6" fill="#b07219"/>
+  <text x="44" y="196" font-size="14" font-weight="600">Java</text>
+  <text x="44" y="213" font-size="12" class="muted">1,1%</text>
+</g>
+<g class="fade" style="animation-delay:0.8s">
+  <circle cx="219" cy="192" r="6" fill="#6e7681"/>
+  <text x="233" y="196" font-size="14" font-weight="600">Outras</text>
+  <text x="233" y="213" font-size="12" class="muted">2,4%</text>
+</g>
+</svg>

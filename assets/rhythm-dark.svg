@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Contribuições por dia da semana; mais produtivo: sexta">
+<title>Contribuições por dia da semana; mais produtivo: sexta</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+  <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+  
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  .muted { fill: #8b949e; }
+  .faint { fill: #6e7681; }
+  .h { font-size: 13px; font-weight: 600; letter-spacing: .4px; text-transform: uppercase; fill: #8b949e; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .7s cubic-bezier(.2,.8,.2,1) forwards; }
+  .growx { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: growx .8s cubic-bezier(.2,.8,.2,1) forwards; }
+  .draw { stroke-dasharray: 3000; stroke-dashoffset: 3000; animation: draw 1.8s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleY(1); } }
+  @keyframes growx { to { transform: scaleX(1); } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .fade,.grow,.growx,.draw { animation: none; opacity: 1; transform: none; stroke-dashoffset: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="413" height="249" rx="14" fill="#11161f" stroke="#262c36"/>
+
+<text x="24" y="40" class="h">Ritmo da semana</text>
+<text x="24" y="60" font-size="12.5" class="muted">Dia mais produtivo: <tspan font-weight="700" style="fill:#e6edf3">sexta</tspan></text>
+<line x1="24" x2="390" y1="200" y2="200" stroke="#262c36"/>
+<path d="M35.14285714285714,200 V200 Q35.14285714285714,196 39.14285714285714,196 H61.14285714285714 Q65.14285714285714,196 65.14285714285714,200 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.1s"/>
+<text x="50.14285714285714" y="189" font-size="11" text-anchor="middle" class="muted" font-weight="400">0</text>
+<text x="50.14285714285714" y="220" font-size="11.5" text-anchor="middle" class="faint">Dom</text>
+<path d="M87.42857142857142,200 V188 Q87.42857142857142,184 91.42857142857142,184 H113.42857142857142 Q117.42857142857142,184 117.42857142857142,188 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.16s"/>
+<text x="102.42857142857142" y="177" font-size="11" text-anchor="middle" class="muted" font-weight="400">2</text>
+<text x="102.42857142857142" y="220" font-size="11.5" text-anchor="middle" class="faint">Seg</text>
+<path d="M139.7142857142857,200 V200 Q139.7142857142857,196 143.7142857142857,196 H165.7142857142857 Q169.7142857142857,196 169.7142857142857,200 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.22s"/>
+<text x="154.7142857142857" y="189" font-size="11" text-anchor="middle" class="muted" font-weight="400">0</text>
+<text x="154.7142857142857" y="220" font-size="11.5" text-anchor="middle" class="faint">Ter</text>
+<path d="M192,200 V196 Q192,192 196,192 H218 Q222,192 222,196 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.28s"/>
+<text x="207" y="185" font-size="11" text-anchor="middle" class="muted" font-weight="400">1</text>
+<text x="207" y="220" font-size="11.5" text-anchor="middle" class="faint">Qua</text>
+<path d="M244.28571428571428,200 V200 Q244.28571428571428,196 248.28571428571428,196 H270.2857142857143 Q274.2857142857143,196 274.2857142857143,200 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.33999999999999997s"/>
+<text x="259.2857142857143" y="189" font-size="11" text-anchor="middle" class="muted" font-weight="400">0</text>
+<text x="259.2857142857143" y="220" font-size="11.5" text-anchor="middle" class="faint">Qui</text>
+<path d="M296.5714285714286,200 V100 Q296.5714285714286,96 300.5714285714286,96 H322.5714285714286 Q326.5714285714286,96 326.5714285714286,100 V200 Z" fill="url(#accentV)" class="grow" style="animation-delay:0.4s"/>
+<text x="311.5714285714286" y="89" font-size="11" text-anchor="middle" class="" font-weight="700">13</text>
+<text x="311.5714285714286" y="220" font-size="11.5" text-anchor="middle" class="">Sex</text>
+<path d="M348.8571428571429,200 V200 Q348.8571428571429,196 352.8571428571429,196 H374.8571428571429 Q378.8571428571429,196 378.8571428571429,200 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.45999999999999996s"/>
+<text x="363.8571428571429" y="189" font-size="11" text-anchor="middle" class="muted" font-weight="400">0</text>
+<text x="363.8571428571429" y="220" font-size="11.5" text-anchor="middle" class="faint">Sáb</text>
+</svg>
