@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Contribuições por dia da semana; mais produtivo: domingo">
-<title>Contribuições por dia da semana; mais produtivo: domingo</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="414" height="250" viewBox="0 0 414 250" role="img" aria-label="Contribuições por dia da semana; mais produtivo: quinta">
+<title>Contribuições por dia da semana; mais produtivo: quinta</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/>
@@ -27,27 +27,27 @@
 <rect x="0.5" y="0.5" width="413" height="249" rx="14" fill="#11161f" stroke="#262c36"/>
 
 <text x="24" y="40" class="h">Ritmo da semana</text>
-<text x="24" y="60" font-size="12.5" class="muted">Dia mais produtivo: <tspan font-weight="700" style="fill:#e6edf3">domingo</tspan></text>
+<text x="24" y="60" font-size="12.5" class="muted">Dia mais produtivo: <tspan font-weight="700" style="fill:#e6edf3">quinta</tspan></text>
 <line x1="24" x2="390" y1="200" y2="200" stroke="#262c36"/>
-<path d="M35.14285714285714,200 V100 Q35.14285714285714,96 39.14285714285714,96 H61.14285714285714 Q65.14285714285714,96 65.14285714285714,100 V200 Z" fill="url(#accentV)" class="grow" style="animation-delay:0.1s"/>
-<text x="50.14285714285714" y="89" font-size="11" text-anchor="middle" class="" font-weight="700">230</text>
-<text x="50.14285714285714" y="220" font-size="11.5" text-anchor="middle" class="">Dom</text>
-<path d="M87.42857142857142,200 V135.2695652173913 Q87.42857142857142,131.2695652173913 91.42857142857142,131.2695652173913 H113.42857142857142 Q117.42857142857142,131.2695652173913 117.42857142857142,135.2695652173913 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.16s"/>
-<text x="102.42857142857142" y="124.26956521739129" font-size="11" text-anchor="middle" class="muted" font-weight="400">152</text>
+<path d="M35.14285714285714,200 V102.2127659574468 Q35.14285714285714,98.2127659574468 39.14285714285714,98.2127659574468 H61.14285714285714 Q65.14285714285714,98.2127659574468 65.14285714285714,102.2127659574468 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.1s"/>
+<text x="50.14285714285714" y="91.2127659574468" font-size="11" text-anchor="middle" class="muted" font-weight="400">230</text>
+<text x="50.14285714285714" y="220" font-size="11.5" text-anchor="middle" class="faint">Dom</text>
+<path d="M87.42857142857142,200 V135.8468085106383 Q87.42857142857142,131.8468085106383 91.42857142857142,131.8468085106383 H113.42857142857142 Q117.42857142857142,131.8468085106383 117.42857142857142,135.8468085106383 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.16s"/>
+<text x="102.42857142857142" y="124.84680851063831" font-size="11" text-anchor="middle" class="muted" font-weight="400">154</text>
 <text x="102.42857142857142" y="220" font-size="11.5" text-anchor="middle" class="faint">Seg</text>
-<path d="M139.7142857142857,200 V130.29565217391303 Q139.7142857142857,126.29565217391304 143.7142857142857,126.29565217391304 H165.7142857142857 Q169.7142857142857,126.29565217391304 169.7142857142857,130.29565217391303 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.22s"/>
-<text x="154.7142857142857" y="119.29565217391304" font-size="11" text-anchor="middle" class="muted" font-weight="400">163</text>
+<path d="M139.7142857142857,200 V131.86382978723404 Q139.7142857142857,127.86382978723404 143.7142857142857,127.86382978723404 H165.7142857142857 Q169.7142857142857,127.86382978723404 169.7142857142857,131.86382978723404 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.22s"/>
+<text x="154.7142857142857" y="120.86382978723404" font-size="11" text-anchor="middle" class="muted" font-weight="400">163</text>
 <text x="154.7142857142857" y="220" font-size="11.5" text-anchor="middle" class="faint">Ter</text>
-<path d="M192,200 V118.99130434782609 Q192,114.99130434782609 196,114.99130434782609 H218 Q222,114.99130434782609 222,118.99130434782609 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.28s"/>
-<text x="207" y="107.99130434782609" font-size="11" text-anchor="middle" class="muted" font-weight="400">188</text>
+<path d="M192,200 V119.47234042553193 Q192,115.47234042553193 196,115.47234042553193 H218 Q222,115.47234042553193 222,119.47234042553193 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.28s"/>
+<text x="207" y="108.47234042553193" font-size="11" text-anchor="middle" class="muted" font-weight="400">191</text>
 <text x="207" y="220" font-size="11.5" text-anchor="middle" class="faint">Qua</text>
-<path d="M244.28571428571428,200 V100 Q244.28571428571428,96 248.28571428571428,96 H270.2857142857143 Q274.2857142857143,96 274.2857142857143,100 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.33999999999999997s"/>
-<text x="259.2857142857143" y="89" font-size="11" text-anchor="middle" class="muted" font-weight="400">230</text>
-<text x="259.2857142857143" y="220" font-size="11.5" text-anchor="middle" class="faint">Qui</text>
-<path d="M296.5714285714286,200 V150.19130434782608 Q296.5714285714286,146.19130434782608 300.5714285714286,146.19130434782608 H322.5714285714286 Q326.5714285714286,146.19130434782608 326.5714285714286,150.19130434782608 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.4s"/>
-<text x="311.5714285714286" y="139.19130434782608" font-size="11" text-anchor="middle" class="muted" font-weight="400">119</text>
+<path d="M244.28571428571428,200 V100 Q244.28571428571428,96 248.28571428571428,96 H270.2857142857143 Q274.2857142857143,96 274.2857142857143,100 V200 Z" fill="url(#accentV)" class="grow" style="animation-delay:0.33999999999999997s"/>
+<text x="259.2857142857143" y="89" font-size="11" text-anchor="middle" class="" font-weight="700">235</text>
+<text x="259.2857142857143" y="220" font-size="11.5" text-anchor="middle" class="">Qui</text>
+<path d="M296.5714285714286,200 V151.33617021276598 Q296.5714285714286,147.33617021276598 300.5714285714286,147.33617021276598 H322.5714285714286 Q326.5714285714286,147.33617021276598 326.5714285714286,151.33617021276598 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.4s"/>
+<text x="311.5714285714286" y="140.33617021276598" font-size="11" text-anchor="middle" class="muted" font-weight="400">119</text>
 <text x="311.5714285714286" y="220" font-size="11.5" text-anchor="middle" class="faint">Sex</text>
-<path d="M348.8571428571429,200 V137.98260869565217 Q348.8571428571429,133.98260869565217 352.8571428571429,133.98260869565217 H374.8571428571429 Q378.8571428571429,133.98260869565217 378.8571428571429,137.98260869565217 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.45999999999999996s"/>
-<text x="363.8571428571429" y="126.98260869565217" font-size="11" text-anchor="middle" class="muted" font-weight="400">146</text>
+<path d="M348.8571428571429,200 V139.3872340425532 Q348.8571428571429,135.3872340425532 352.8571428571429,135.3872340425532 H374.8571428571429 Q378.8571428571429,135.3872340425532 378.8571428571429,139.3872340425532 V200 Z" fill="#30363d" class="grow" style="animation-delay:0.45999999999999996s"/>
+<text x="363.8571428571429" y="128.3872340425532" font-size="11" text-anchor="middle" class="muted" font-weight="400">146</text>
 <text x="363.8571428571429" y="220" font-size="11.5" text-anchor="middle" class="faint">Sáb</text>
 </svg>
